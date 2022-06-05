@@ -1,0 +1,13 @@
+# These are supported funding model platforms
+
+github: #
+patreon: # javascript:alert(1)
+open_collective: javascript:alert(1)
+ko_fi: javascript:alert(1)
+tidelift: ../../../javascript:alert(1)
+community_bridge: ../../../javascript:alert(1)
+liberapay: # Replace with a single Liberapay username
+issuehunt: # Replace with a single IssueHunt username
+otechie: # Replace with a single Otechie username
+lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
+custom: ../javascript:alert(1)
